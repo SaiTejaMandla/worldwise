@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "89fa",
+      "cityName": "Mahanandi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-24T06:34:10.216Z",
+      "notes": "super",
+      "position": {
+        "lat": "15.390456517176466",
+        "lng": "78.50830078125001"
+      }
+    },
+    {
+      "id": "40a3",
+      "cityName": "Nandyal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-23T06:18:32.785Z",
+      "notes": "",
+      "position": {
+        "lat": "15.46215870764427",
+        "lng": "78.45611572265626"
+      }
+    }
+  ]
+}
